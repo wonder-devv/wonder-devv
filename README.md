@@ -1,7 +1,5 @@
 # Senior Full Stack Developer
 
-> Senior Full Stack Developer with ~10 years of experience building fast, reliable, and scalable software — from embedded systems to production ML pipelines.
-
 ---
 
 ## About Me ✨
