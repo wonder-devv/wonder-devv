@@ -1,6 +1,5 @@
 # Senior Full Stack Developer
 
----
 
 ## About Me ✨
 
