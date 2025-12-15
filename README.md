@@ -19,10 +19,10 @@ I've contributed as a full stack developer on multiple AI projects, focusing on 
 
 ## Tech Skills 💻
 
-- **Languages:** `JavaScript`, `TypeScript`, `PHP`, `Python`, `C++`, `C#`
-- **Frontend:** `React`, `Next.js`, `Angular`, `Vue`, `Nuxt.js`
-- **Backend:** `Node.js`, `Express.js`, `Nest.js`, `Laravel`, `Django`, `Flask`, `.NET`, `ASP.NET`
-- **Cloud & DevOps:** `Docker`, `CI/CD`, `Kubernetes`, `AWS`, `Firebase` & `Firestore`, `Microsoft Azure`
+- **Languages:** 🟨 `JavaScript`, 🔷 `TypeScript`, 🐘 `PHP`, 🐍 `Python`, ➕➕ `C++`, 🎯 `C#`
+- **Frontend:** ⚛️ `React`, ⏭️ `Next.js`, 🅰️ `Angular`, 🟢 `Vue`, 🌲 `Nuxt.js`
+- **Backend:** 🟩 `Node.js`, ⚙️ `Express.js`, 🕸️ `Nest.js`, 🌹 `Laravel`, 🐍 `Django`, ☕ `Flask`, ⚙️ `.NET`, 🌐 `ASP.NET`
+- **Cloud & DevOps:** 🐳 `Docker`, 🔁 `CI/CD`, ☸️ `Kubernetes`, ☁️ `AWS`, 🔥 `Firebase` & `Firestore`, 🟦 `Microsoft Azure`
 
 ---
 
